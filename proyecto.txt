@@ -1,1 +1,2 @@
 Versión 1.0. Base del proyecto.
+Funcionalidad añadida: Soporte inicial para la lista de pendientes.
