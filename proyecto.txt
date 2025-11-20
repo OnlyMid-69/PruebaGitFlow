@@ -1,2 +1,3 @@
-Versión 1.0. Base del proyecto.
+Versión 1.1.0. Base del proyecto.
 Funcionalidad añadida: Soporte inicial para la lista de pendientes.
+Ajuste final: Documentación actualizada para el lanzamiento 1.1.0.
